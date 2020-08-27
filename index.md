@@ -78,7 +78,7 @@ Final numerical grades are determined using the weights below:
 - Topic presentation: 35%
 - Participation: 10%
 
-Please contact Roberty by email if you need an extension.
+Please contact Roberto by email if you need an extension.
 
 
 ## Diversity and Inclusion
