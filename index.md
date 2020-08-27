@@ -15,7 +15,7 @@ contributions.
 background is essential.
 Instructor permission required.
 
-The course can be used toward satisfying the [capstone requirement](https://cs.brown.edu/degrees/undergrad/concentrating-in-cs/concentration-requirements/capstone/)/
+The course can be used toward satisfying the [capstone requirement](https://cs.brown.edu/degrees/undergrad/concentrating-in-cs/concentration-requirements/capstone/).
 
 ### Online Resources
 
