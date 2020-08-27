@@ -20,8 +20,8 @@ The course can be used toward satisfying the
 
 ### Instructor
 
-#### Roberto Tamassia
-##### Plastech Professor of Computer Science
+##### Roberto Tamassia
+###### Plastech Professor of Computer Science
 
 
 ### Online Resources
