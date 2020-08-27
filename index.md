@@ -80,7 +80,7 @@ Please contact Roberty by email if you need an extension.
 
 We intend for this course to provide a welcoming learning environment for all
 students. We especially welcome diverse ideas and perspectives during class
-discussions After all, viewing systems in different ways often results in more
+discussions. Indeed, viewing systems in different ways often results in more
 robust and secure systems in the end.
 However, despite our best efforts, we may accidentally slip
 up, so please feel free to speak to any member of the course staff with any
@@ -97,7 +97,7 @@ Brown University is committed to full inclusion of all
 students. Students who, by nature of a documented disability, require
 academic accommodations should contact Roberto. The staff of the
 office of Student and Employee Accessibility Services can be reached
-at 401-863-9588 or `{SEAS@brown.edu` to discuss the process for
+at 401-863-9588 or `SEAS@brown.edu` to discuss the process for
 requesting accommodations.
 
 ###  Contact
