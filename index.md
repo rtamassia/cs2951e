@@ -1,12 +1,51 @@
-## Welcome to CS2951E
+## Welcome to CSCI 2951-E
 
-This course explores advanced topics and highlights current research in computer security from a systems perspective. Topics include applications security, cloud security, operating systems security, software security, web security, and vulnerabilities and defenses in cyber physical systems (e.g., automotive, medical, and industrial control devices). Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work such as investigating vulnerabilities, developing protocols,  building proof-of-concept prototypes, and making research contributions.
+This course explores advanced topics and highlights current research
+in computer security from a systems perspective. Topics include
+applications security, cloud security, operating systems security,
+software security, web security, and vulnerabilities and defenses in
+cyber physical systems (e.g., automotive, medical, and industrial
+control devices). Recent research papers will be presented and
+discussed. Also, projects will provide an opportunity for creative
+work such as investigating vulnerabilities, developing protocols,
+building proof-of-concept prototypes, and making research
+contributions.
 
-### Markdown
+CSCI 1660 or equivalent background is essential. Instructor permission required. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+## Course Work
+
+The work for the course comprises a topic presentation, a project, and
+participating in class discussions.
+
+### Topic Presentation
+
+A topic presentation consists of studying in depth and presenting a
+paper from a recent research conference in computer security. The
+presentation should include background material related to the paper
+so it can be understood by everyone in the class.
+
+### Project
+
+A project for the course is an independent creative endeavor that results in an artifact. Various types of projects are acceptable provided they involve original thinking and new ideas. Examples of project types include:
+
+- Analyze the security of a system, identifying vulnerabilities and developing attacks to exploit them
+- Improve on the results of a published research paper. This could be done in various ways such as:
+- Extend the scope of a paper to broaden applicability, improve performance, or incorporate recent technological advances
+- Build a proof-of-concept system prototype for a method described in a theoretical paper
+- Perform additional experiments to expand the practical evaluation of an applied paper
+- Develop interactive online learning materials for a computer systems security subject
+- Conduct research on a new or insufficiently explored subject.
+Other project types may be proposed.
+
+
+
+
+
+
+
+## Markdown
 Syntax highlighted code block
 
 # Header 1
