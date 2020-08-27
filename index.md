@@ -13,10 +13,21 @@ contributions.
 
 [CSCI 1660](https://cs.brown.edu/courses/cs166/) or equivalent
 background is essential.
-Instructor permission required. 
+Instructor permission required.
+
+The course can be used toward satisfying the capstone requirement.
+
+### Online Resources
+
+This page serves as course syllabus and public website.
+
+This  [Canvas website](https://canvas.brown.edu/courses/1083171),
+accessible only by registered students, contains detailed course
+information and materials, and is used to submit the deliverables for
+the topic presentation and project.
 
 
-## Course Work
+## Learning Activities and Workload
 
 The work for the course comprises a topic presentation, a project, and
 participating in class discussions.
@@ -47,41 +58,47 @@ A project is an independent creative endeavor that results in an artifact. Vario
 - Conduct research on a new or insufficiently explored subject.
 Other project types may be proposed.
 
-### Grading
+### Expected Workload
+
+During the semester, students will spend about 36 hours in lecture (3
+hours per week), 60 hours on the topic presentation, and 90
+hours on the project, for  a total expected course workload of 186
+hours.
+
+
+## Grading and Late Policy
 
 Final numerical grades are determined using the weights below:
 - Project: 55%
 - Topic presentation: 35%
 - Participation: 10%
 
+Please contact Roberty by email if you need an extension.
 
 
+## Diversity and Inclusion
 
+We intend for this course to provide a welcoming learning environment for all
+students. We especially welcome diverse ideas and perspectives during class
+discussions After all, viewing systems in different ways often results in more
+robust and secure systems in the end.
+However, despite our best efforts, we may accidentally slip
+up, so please feel free to speak to any member of the course staff with any
+concerns you have during the semester and do not hesitate to contact Roberto directly. He will take your concerns very seriously. And in case you believe you need to escalate your concerns further, you can  reach out to Professor Tom Doeppner (Vice Chair and Director of Undergraduate Studies).
 
+## Student Responsibilities
 
-## Markdown
-Syntax highlighted code block
+All Brown students are responsible for understanding and following the
+Brown Academic Code and Principles of the Brown University Community.
 
-# Header 1
-## Header 2
-### Header 3
+## Accessibility
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rtamassia/cs2951e/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Brown University is committed to full inclusion of all
+students. Students who, by nature of a documented disability, require
+academic accommodations should contact Roberto. The staff of the
+office of Student and Employee Accessibility Services can be reached
+at 401-863-9588 or `{SEAS@brown.edu` to discuss the process for
+requesting accommodations.
 
 ###  Contact
 
