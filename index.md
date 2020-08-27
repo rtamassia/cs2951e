@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CS2951E
 
-You can use the [editor on GitHub](https://github.com/rtamassia/cs2951e/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This course explores advanced topics and highlights current research in computer security from a systems perspective. Topics include applications security, cloud security, operating systems security, software security, web security, and vulnerabilities and defenses in cyber physical systems (e.g., automotive, medical, and industrial control devices). Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work such as investigating vulnerabilities, developing protocols,  building proof-of-concept prototypes, and making research contributions.
 
 ### Markdown
 
@@ -32,6 +30,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rtamassia/cs2951e/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+###  Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Roberto Tamassia, Department of Computer Science, Brown University
