@@ -11,7 +11,9 @@ work such as investigating vulnerabilities, developing protocols,
 building proof-of-concept prototypes, and making research
 contributions.
 
-CSCI 1660 or equivalent background is essential. Instructor permission required. 
+[CSCI 1660](https://cs.brown.edu/courses/cs166/) or equivalent
+background is essential.
+Instructor permission required. 
 
 
 ## Course Work
@@ -22,13 +24,19 @@ participating in class discussions.
 ### Topic Presentation
 
 A topic presentation consists of studying in depth and presenting a
-paper from a recent research conference in computer security. The
-presentation should include background material related to the paper
+paper from a recent research conference in computer security, such as:
+
+- ACM Conference on Computer and Communications Security
+- Network and Distributed System Security Symposium
+- IEEE Symposium on Security and Privacy
+- USENIX Security Symposium
+
+The presentation should include background material related to the paper
 so it can be understood by everyone in the class.
 
 ### Project
 
-A project for the course is an independent creative endeavor that results in an artifact. Various types of projects are acceptable provided they involve original thinking and new ideas. Examples of project types include:
+A project is an independent creative endeavor that results in an artifact. Various types of projects are acceptable provided they involve original thinking and new ideas. Examples of project types include:
 
 - Analyze the security of a system, identifying vulnerabilities and developing attacks to exploit them
 - Improve on the results of a published research paper. This could be done in various ways such as:
@@ -39,6 +47,12 @@ A project for the course is an independent creative endeavor that results in an 
 - Conduct research on a new or insufficiently explored subject.
 Other project types may be proposed.
 
+### Grading
+
+Final numerical grades are determined using the weights below:
+- Project: 55%
+- Topic presentation: 35%
+- Participation: 10%
 
 
 
