@@ -20,9 +20,7 @@ The course can be used toward satisfying the
 
 ### Instructor
 
-##### Roberto Tamassia
-###### Plastech Professor of Computer Science
-
+[Roberto Tamassia](https://cs.brown.edu/people/faculty/rtamassi/)
 
 ### Online Resources
 
