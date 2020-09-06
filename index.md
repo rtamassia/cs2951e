@@ -56,11 +56,12 @@ A project is an independent creative endeavor that results in an artifact. Vario
 
 - Analyze the security of a system, identifying vulnerabilities and developing attacks to exploit them
 - Improve on the results of a published research paper. This could be done in various ways such as:
-- Extend the scope of a paper to broaden applicability, improve performance, or incorporate recent technological advances
-- Build a proof-of-concept system prototype for a method described in a theoretical paper
-- Perform additional experiments to expand the practical evaluation of an applied paper
+    - Extend the scope of a paper to broaden applicability, improve performance, or incorporate recent technological advances
+    - Build a proof-of-concept system prototype for a method described in a theoretical paper
+    - Perform additional experiments to expand the evaluation component of an applied paper
 - Develop interactive online learning materials for a computer systems security subject
 - Conduct research on a new or insufficiently explored subject.
+
 Other project types may be proposed.
 
 ### Expected Workload
