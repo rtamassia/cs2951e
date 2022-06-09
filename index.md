@@ -8,7 +8,7 @@
 
 ## Welcome
 
-This **online synchronous course** explores advanced topics and highlights current research in computer security and privacy. Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work. Class attendance is required and active participation in class discussions is essential. The course has two sections, each with a different focus and prerequisites. Instruction permission is required to register. The course can be used toward satisfying the capstone requirement for the ScB degree in Computer Science.
+This **online synchronous course** explores advanced topics and highlights current research in computer security and privacy. Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work. Class attendance is required and active participation in class discussions is essential. The course has two sections, each with a different focus and prerequisites. Instructor permission is required to register. The course can be used toward satisfying the capstone requirement for the ScB degree in Computer Science.
 
 **Section 1 (Networks, Software, and Systems)** addresses computer security and privacy from the perspective of networks, software, and systems. Topics include applications security, applied cryptography, cloud security, operating systems security, software security, web security, and vulnerabilities and defenses in cyber physical systems (e.g., automotive, medical, and industrial control devices).  For this section, **CSCI 1660 or equivalent background is a prerequisite**.
 
@@ -86,7 +86,7 @@ During the semester, students will spend about 36 hours in lectures (3 hours per
 
 ## Late Policy, and Grading
 
-Absence from class are excused and extensions are jusified only for illness and personal or family emergencies. Each student is allowed one unexcused absence from class, unless the student is presenting that day. Please contact the instructors by email to request accommodations ahead of the missed class or due date.
+Absences from class are excused and extensions are justified only for illness and personal or family emergencies. Each student is allowed one unexcused absence from class, unless the student is presenting that day. Please contact the instructors by email to request accommodations ahead of the missed class or due date.
 
 Final numerical grades are determined by the instructor using the weights below:
 * Project: 50%
