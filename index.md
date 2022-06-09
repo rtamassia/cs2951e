@@ -1,10 +1,6 @@
 ## Fall 2022
 
-**Section 1 (online synchronous): Networks, Software, and Systems**
-
-**Section 2 (online synchronous): Human Factors, Law, and Policy**
-
-**Both sections meet on Zoom at N hour (W 3:00pm—5:30pm). Attendance is required.**
+### Section 1 (online synchronous): Networks, Software, and Systems </br> Section 2 (online synchronous): Human Factors, Law, and Policy </br> Both sections meet on Zoom at N hour (W 3:00pm—5:30pm). Attendance is required
 
 ## Welcome
 
