@@ -59,7 +59,7 @@ paper from a recent research conference in computer security, such as:
 
 ### Project
 
-A project is an independent creative endeavor that results in an artifact. Various types of projects are acceptable provided they involve original thinking and new ideas. Projects are presented in class. A set of slides in Google Slides or Microsoft PowerPoint format should be submitted ahead of the presentation. A project report and a final version of the slides that incorporates feedback from the instructor and the class discussion should be submitted after the presentation. 
+A project is an independent creative endeavor that results in an artifact. Various types of projects are acceptable provided they involve original thinking and new ideas. Projects are presented in class. A set of slides in Google Slides or Microsoft PowerPoint format should be submitted ahead of the presentation. A project paper, or a report and the associated deliverables, as well as a final version of the slides that incorporates feedback from the instructor and the class discussion should be submitted after the presentation. 
 
 Examples of project types include:
 
