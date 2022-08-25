@@ -105,3 +105,4 @@ All Brown students are responsible for understanding and following the Brown Aca
 
 Brown University is committed to full inclusion of all students. Students who, by nature of a documented disability, require academic accommodations should contact the instructors. The staff of the office of Student and Employee Accessibility Services can be reached at  SEAS@brown.edu (or 401-863-9588) to discuss the process for requesting accommodations.
 
+
