@@ -6,7 +6,7 @@
 
 **Both sections meet on Zoom at N hour (W 3:00pm—5:30pm). Attendance is required.**
 
-[<img src="https://cdn.bfldr.com/AMC8F81D/at/cp3r4csh3txs4nqt89kf5zc/Zoom_Logo_Blue.png?auto=webp&format=png" width=10% height=10% >](https://docs.google.com/document/d/1cNg2-dyFA5WpHDXjWYcTZJ0ghlyn_7QSzM6v3K2emdY/edit?usp=sharing)
+[![](https://cdn.bfldr.com/AMC8F81D/at/cp3r4csh3txs4nqt89kf5zc/Zoom_Logo_Blue.png?auto=webp&format=png)](https://docs.google.com/document/d/1cNg2-dyFA5WpHDXjWYcTZJ0ghlyn_7QSzM6v3K2emdY/edit?usp=sharing)
 
 ## Welcome
 
