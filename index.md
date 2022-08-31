@@ -6,6 +6,8 @@
 
 **Both sections meet on Zoom at N hour (W 3:00pm—5:30pm). Attendance is required.**
 
+[<img src="https://github.com/rtamassia/cs2951e/blob/gh-pages/ZoomLogo.png" width=10% height=10% >](https://docs.google.com/document/d/1cNg2-dyFA5WpHDXjWYcTZJ0ghlyn_7QSzM6v3K2emdY/edit?usp=sharing)
+
 ## Welcome
 
 This **online synchronous course** explores advanced topics and highlights current research in computer security and privacy. Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work. Class attendance is required and active participation in class discussions is essential. The course has two sections, each with a different focus and prerequisites. Instructor permission is required to register. The course can be used toward satisfying the capstone requirement for the ScB degree in Computer Science.
