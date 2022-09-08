@@ -8,6 +8,8 @@
 
 [![](https://cdn.bfldr.com/AMC8F81D/at/cp3r4csh3txs4nqt89kf5zc/Zoom_Logo_Blue.png?auto=webp&format=png&width=100&height=23)](https://docs.google.com/document/d/1cNg2-dyFA5WpHDXjWYcTZJ0ghlyn_7QSzM6v3K2emdY/edit?usp=sharing)
 
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Google_Drive_text_logo_grey.png/320px-Google_Drive_text_logo_grey.png)](https://drive.google.com/drive/folders/1UPkxIayAKR5guFuGlwHWAHtqpJ0oGFLA?usp=sharing)
+
 ## Welcome
 
 This **online synchronous course** explores advanced topics and highlights current research in computer security and privacy. Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work. Class attendance is required and active participation in class discussions is essential. The course has two sections, each with a different focus and prerequisites. Instructor permission is required to register. The course can be used toward satisfying the capstone requirement for the ScB degree in Computer Science.
