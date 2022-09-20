@@ -88,9 +88,9 @@ Students with no more than one unexcused absence and who regularly contribute to
 
 During the semester, students will spend about 36 hours in lectures (3 hours per week), 60 hours on the topic presentation, and 90 hours on the project, for a total expected course workload of 186 hours.
 
-## Late Policy, and Grading
+## Attendance, Late Policy, and Grading [Revised 9/20/22]
 
-Absences from class are excused and extensions are justified only for illness and personal or family emergencies. Each student is allowed one unexcused absence from class, unless the student is presenting that day. Please contact the instructors by email to request accommodations ahead of the missed class or due date.
+Absences from class are excused and extensions are justified only for illness and personal or family emergencies. **Each student is allowed unexcused absences from the first class and two additional classes, unless the student is presenting that day.** Please contact the instructors by email to request accommodations ahead of the missed class or due date.
 
 Final numerical grades are determined by the instructor using the weights below:
 * Project: 50%
