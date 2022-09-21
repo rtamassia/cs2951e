@@ -6,9 +6,9 @@
 
 **Both sections meet on Zoom at N hour (W 3:00pm—5:30pm). Attendance is required.**
 
-[![](https://cdn.bfldr.com/AMC8F81D/at/cp3r4csh3txs4nqt89kf5zc/Zoom_Logo_Blue.png?auto=webp&format=png&width=100&height=23)](https://docs.google.com/document/d/1cNg2-dyFA5WpHDXjWYcTZJ0ghlyn_7QSzM6v3K2emdY/edit?usp=sharing)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Google_Drive_text_logo_grey.png/320px-Google_Drive_text_logo_grey.png)](https://drive.google.com/drive/folders/1UPkxIayAKR5guFuGlwHWAHtqpJ0oGFLA?usp=sharing) 
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Google_Drive_text_logo_grey.png/320px-Google_Drive_text_logo_grey.png)](https://drive.google.com/drive/folders/1UPkxIayAKR5guFuGlwHWAHtqpJ0oGFLA?usp=sharing)
+**(Access to course materials in Google Drive restricted to registered students.)**
 
 ## Welcome
 
