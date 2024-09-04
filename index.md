@@ -3,7 +3,9 @@
 
 **The course meets on Zoom at N hour (W 3:00pm—5:30pm). Attendance is required.**
 
-**[Zoom Link](https://brown.zoom.us/j/98963112832?pwd=GAkihduX2oRINqYdaik1fWuyI50Jrh.1) (for students registered or with approved override requests)**
+**[Zoom Link](https://brown.zoom.us/j/98963112832?pwd=GAkihduX2oRINqYdaik1fWuyI50Jrh.1) (for students registered or with approved override requests; Brown login required)**
+
+**[Course Introduction Slides](https://docs.google.com/presentation/d/1ZAfb4xE8V2GezpDrmlNy-9USzin3hzGtK-Osd0DIdn4/edit?usp=sharing) (Brown login required)**
 
 ## Welcome
 
