@@ -3,6 +3,8 @@
 
 **The course meets on Zoom at N hour (W 3:00pm—5:30pm). Attendance is required.**
 
+**[Zoom Link](https://brown.zoom.us/j/98963112832?pwd=GAkihduX2oRINqYdaik1fWuyI50Jrh.1) (for students registered or with approved override requests)**
+
 ## Welcome
 
 This **online synchronous course** explores advanced topics and highlights current research in computer security and privacy. Topics include applications security, applied cryptography, cloud security, operating systems security, software security, web security, usable security, and vulnerabilities and defenses in cyber physical systems (e.g., automotive, medical, and industrial control devices). Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work. Class attendance is required, and active participation in class discussions is essential. The course can be used to satisfy the
