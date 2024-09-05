@@ -7,6 +7,8 @@
 
 **[Course Introduction Slides](https://docs.google.com/presentation/d/1ZAfb4xE8V2GezpDrmlNy-9USzin3hzGtK-Osd0DIdn4/edit?usp=sharing) (Brown login required)**
 
+**[Course Canvas Site](https://canvas.brown.edu/courses/1096958) (Available to registered and prospective students)**
+
 ## Welcome
 
 This **online synchronous course** explores advanced topics and highlights current research in computer security and privacy. Topics include applications security, applied cryptography, cloud security, operating systems security, software security, web security, usable security, and vulnerabilities and defenses in cyber physical systems (e.g., automotive, medical, and industrial control devices). Recent research papers will be presented and discussed. Also, projects will provide an opportunity for creative work. Class attendance is required, and active participation in class discussions is essential. The course can be used to satisfy the
