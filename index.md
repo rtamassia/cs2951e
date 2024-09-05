@@ -20,7 +20,7 @@ This **online synchronous course** explores advanced topics and highlights curre
 
 
 
-### Instructors
+### Instructor
 
 * [Roberto Tamassia](https://cs.brown.edu/people/faculty/rtamassi)
 
