@@ -48,11 +48,11 @@ A topic presentation consists of studying in depth and presenting a recent resea
 - IEEE Symposium on Security and Privacy
 - USENIX Security Symposium
 
-The presentation should include background material related to the paper so it can be understood by everyone in the class. A set of slides in Google Slides or Microsoft PowerPoint format should be submitted before the presentation. A final version of the slides that incorporates feedback from the instructor and the class discussion should be submitted after the presentation.
+The presentation should include background material related to the paper so it can be understood by everyone in the class. A set of slides in Google Slides format should be submitted before the presentation. A final version of the slides that incorporates feedback from the instructor and the class discussion should be submitted after the presentation.
 
 ### Project
 
-A project is an independent creative endeavor that results in an artifact. Various types of projects are acceptable, provided they involve original thinking and new ideas. Projects are presented in class. A set of slides in Google Slides or Microsoft PowerPoint format should be submitted ahead of the presentation. A project paper, or a report and the associated deliverables, as well as a final version of the slides that incorporates feedback from the instructor and the class discussion, should be submitted after the presentation. 
+A project is an independent creative endeavor that results in an artifact. Various types of projects are acceptable, provided they involve original thinking and new ideas. Projects are presented in class. A set of slides in Google Slides format should be submitted ahead of the presentation. A project paper, or a report and the associated deliverables, as well as a final version of the slides that incorporates feedback from the instructor and the class discussion, should be submitted after the presentation. 
 
 Examples of project types include:
 
